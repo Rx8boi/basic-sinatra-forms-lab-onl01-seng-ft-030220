@@ -6,5 +6,5 @@ class App < Sinatra::Base
     erb :newteam
   end
 
-  
+
 end
